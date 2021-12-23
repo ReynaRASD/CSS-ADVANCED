@@ -1,0 +1,24 @@
+/*
+Otra manera de hacerlo es pegando la URL aqui, y lo de CSS. 
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pushster&family=Rock+3D&display=swap');
+
+
+h1{
+    font-family: 'Pushster', cursive;
+}
+
+p{
+    font-family: 'Rock 3D', cursive;
+    
+}
+
+.curva{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 0rem;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
